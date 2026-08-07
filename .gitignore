@@ -1,0 +1,21 @@
+# Saída do Quarto (gerada pela automação, não versionada)
+_book/
+*_files/
+.quarto/
+**/*.quarto_ipynb
+
+# PDFs de terceiros — material de consulta, protegido por direito autoral.
+# Não deve ser publicado em repositório público.
+Referencias/
+
+# R / RStudio
+.Rproj.user/
+.Rhistory
+.Rprofile
+.RData
+*.Rproj
+renv/
+renv.lock
+
+# macOS
+.DS_Store

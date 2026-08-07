@@ -1,0 +1,44 @@
+project:
+  type: book
+
+lang: pt-BR
+
+book:
+  title: "Esquizofrenia"
+  subtitle: "Um conceito em construção"
+  author: "Dr. Henrique Alvarenga da Silva"
+  date: "6/28/2024"
+  site-url: https://henriquealvarenga.com/esquizofrenia
+  description: "As fases iniciais da esquizofrenia na história da psiquiatria: Kraepelin, Bleuler, Schneider, Conrad e Huber. Texto de psicopatologia por Dr. Henrique Alvarenga da Silva."
+  favicon: cover.png
+  page-footer:
+    center: |
+      Dr. Henrique Alvarenga da Silva · Médico Psiquiatra<br>
+      CRM-MG 31.778 · RQE 8381 · Professor de Medicina (UFSJ e UNIPTAN)<br>
+      [henriquealvarenga.com](https://henriquealvarenga.com)
+  chapters:
+    - index.qmd
+    - 1.Intro.qmd
+    - 2.Kraepelin.qmd
+    - 3.Bleuler.qmd
+    - 4.Schneider.qmd
+    - 5.Dimensions_Of_Symptoms.qmd
+    - 6.Conrad.qmd
+    - 6.1.Cases.qmd
+    - 7.Hubber.qmd
+    - 8.About.qmd
+    - 9.References.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: readable
+    highlight: github
+    canonical-url: true
+    include-in-header:
+      - file: _includes/autor.html
+  pdf:
+    documentclass: scrreprt
+
+editor: visual

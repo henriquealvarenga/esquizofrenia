@@ -1,0 +1,74 @@
+# As Dimensões de Sintomas da Esquizofrenia
+
+## Simplificando a complexidade
+
+O "grupo das esquizofrenias" é fenomenologicamente muito heterogêneo, com sintomas em múltiplos domínios psicológicos, incluindo percepção, pensamento inferencial, linguagem, atenção, interação social, expressão emocional e volição. A questão enfrentada pelos primeiros psiquiatras era a de definir quais sintomas eram os mais importantes, primordiais ou fundamentias, quais seriam acessórios, quais seriam úteis para o diagnóstico. Kraepelin, Bleuler, Schneider se dedicaram a tentar resolver esse problema.
+
+Uma das formas de tentar simplificar esse conjunto confuso é agrupar os sintomas em categorias. Desde o início, várias tentativas foram feitas para reunir conjuntos de sintomas em categorias [@Wijers2005]. Kraepelin fez uma distinção entre sintomas emocionais e volitivos e sintomas que envolvem a perda de unidade das funções mentais; Bleuler, diferenciou entre sintomas primários (ou fundamentais) e acessórios (ou secundários); Kurt Schneider classificou propôs grupos de "Sintomas de Primeira Ordem" e "Sintomas Segunda Ordem". Cada uma dessas tentativas enfrentou dificuldades. Kraepelin não propôs nenhum sintoma como essencial ou patognomônico, Bleuler não esclareceu adequadamente a definição do seus sintomas fundamentais, e a popularidade dos Sintomas de Primeira Ordem de Kurt Schneider, adotados no DSM-III na década de 1980, foram aos poucos perdendo o prestígio que inicialmente tinham.
+
+Mas saber quais eram os principais sintomas não era o único problema no diagnóstico da esquizofrenia. A confiabilidade dos diagnóstico psiquiátrico tinha um outro calcanhar de aquiles: não havia nenhuma uniformização ou consenso acerca da definição da maioria dos termos usados para descrever os sintomas da esquizofrenia e nem havia um consenso de como agrupar esses sintomas em classes ou categorias [@Andreasen1979].
+
+Aos poucos, a partir de uma nomenclatura da neurologia, foi emergindo na psiquiatria uma diferenciação entre sintomas positivos e negativos na esquizofrenia.
+
+## Origens dos Sintomas Positivos e Negativos
+
+Um dos primeiros autores a usar a terminologia de sintomas positivos e negativos foram os neurologistas John Russell Reynolds (1828-1896) e Hughlings Jackson (1835–1911). Esses autores usaram esses termos para descrever sintomas de pacientes neurológicos, principalmente epilepsia. Reynolds em 1861 propôs o conceito de sintomas neurológicos positivos e negativos como sendo o excesso ou a diminuição de propriedades vitais. Os sintomas positivos incluíam espasmos clônicos, movimentos anormais, mas também alucinações e delírios paranóicos. Os sintomas negativos incluíram perda de sensibilidade, paralisia e coma [@Pearce1148; @Berrios1985]. Hughlings Jackson por sua vez, alguns anos mais tarde, usou esses termos para descrever dois grupos de sintomas neurológicos. Jackson entendia os sintomas positivos como "fenômenos de liberação" que ocorrem em tecidos saudáveis, enquanto os sintomas negativos representam uma "dissolução" (ou perda neuronal) [@Andreasen1994]. A distinção entre sintomas positivos e negativos reapareceu na França na obra do psiquiatra fracês Gaëtan Gatian de Clérambault. Para Clérambault os sintomas positivos eram fenômenos como alucinações e delírios e os sintomas negativos referiam-se a fenômenos como pobreza de pensamentos, perplexidade e comprometimento da atenção [@Berrios1985]. Apesar desses termos, positivos e negativos, não se aplicarem na psiquiatria com a conotação fisiológica que Reynols e Jackson haviam proposto, acabaram sendo adotados na psicopatologia contemporânea como termos descritivos.
+
+O conceito de **Sintomas Positivos** e **Negativos** ganhou popularidade na década de 1980 a partir da sugestão de Crow [-@Crow1980], acerca da distinção entre esquizofrenia Tipo I e Tipo II. A esquizofrenia do Tipo I seria caracterizada por sintomas positivos (delírios, alucinações) e associada a uma melhor resposta ao tratamento, enquanto a Tipo II seria caracterizada por sintomas negativos (embotamento afetivo, alogia, anedonia) e associada a mudanças estruturais no cérebro e pior prognóstico. Entretanto, essa hipótese não explicava como os pacientes poderiam ter ao mesmo tempo sintomas positivos e negativos e outros achados contraintuitivos e contraditórios [@Andreasen1994]. Andreasen e Olsen [-@AndreasenOlsen1982], nessa mesma linha de raciocínio, propuseram na década de 1980 diferenciar 3 tipos de Esquizofrenia: Esquizofrenia Positiva, Esquizofrenia Negativa e Esquizofrenia Mista:
+
+**A) Esquizofrenia Positiva:**\
+Pelo menos um dos seguintes sintomas é uma parte proeminente da doença.\
+a. Alucinações severas que dominam o quadro clínico (auditivas, táteis ou olfativas).\
+b. Delírios severos (podem ser persecutórios, ciumentos, somáticos, religiosos, grandiosos ou fantásticos).\
+c. Distúrbio do pensamento manifestado por incoerência acentuada, desvio, tangencialidade ou ilogicidade.\
+d. Repetidas instâncias de comportamento bizarro ou desorganizado.\
+OBS: Nenhum dos seguintes está presente em grau acentuado:\
+a. Alogia\
+b. Achatamento afetivo\
+c. Avilação-apatia\
+d. Anedonia-associalidade\
+e. Comprometimento da atenção\
+
+**B) Esquizofrenia Negativa:**\
+
+Pelo menos dois dos seguintes sintomas estão presentes em grau acentuado.\
+a. Alogia (por exemplo, pobreza marcante de fala, pobreza de conteúdo da fala).\
+b. Achatamento afetivo.\
+c. Anedonia-associalidade (por exemplo, incapacidade de sentir prazer ou intimidade, poucos contatos sociais).\
+d. Avolição-apatia (por exemplo, anergia, falta de persistência no trabalho ou na escola).\
+e. Comprometimento da atenção.\
+OBS: Nenhum dos seguintes domina o quadro clínico ou está presente em grau acentuado:\
+a. Alucinações\
+b. Delírios\
+c. Distúrbio formal do pensamento\
+d. Comportamento bizarro\
+
+**C) Esquizofrenia Mista**
+
+Esta categoria inclui aqueles pacientes que não atendem aos critérios para esquizofrenia positiva ou negativa, ou que atendem aos critérios para ambas.
+
+Apesar dessas distinções simplistas de 2 ou 3 tipos tipos de esquizofrenia terem sido abandonadas nos últimos anos, o uso desses termos se manteve, mas não para diferenciar pacientes ou síndromes, mas para diferenciar conjuntos de sintomas. A nova abordagem, geralmente reconhecida como modelo dimensional, propõe que os sintomas da esquizofrenia tendem a se agrupar em diferentes complexos de sintomas que podem coexistir em pacientes individuais [@Peralta2001].
+
+## Nancy Andreasen, a SANS e a SAPS
+
+Em meados da década de 1970 começava nos Estados Unidos um movimento com objetivo de reescrever os diagnósticos psiquiátricos com base em evidências, utilizando critérios diagnósticos ao invés de descrições genéricas. Liderados por Bob Spitzer, a força de trabalho para escrever o que seria do DSM-III tinha entre seus objetivos mellhorar a comunicação entre os clínicos e teria um glossário para definir os termos usados [@Andreasen2007]. Entretanto, vários conceitos da psicopatologia clássica ainda não tinham uma definição homogênea entre os psiquiatras [@Andreasen1979].
+
+Na busca de padronizar o significado desses termos, o grupo de pesquisas em linguagem e cognição da Universidade de Iowa, liderado por Nancy Andreasen, buscou investigar as definições existentes, na tentativa de criar uma padronização desses termos para uso no glossário do DSM-III [@Andreasen1985; @Andreasen1979; @Andreasen1979b]. Andreasen focou seu trabalho num grupo heterogêoneo de sintomas de agrupados sob o rótulo "Distúrbio do Pensamento" (*thought disorder*), englobando uma série de sintomas tais como pobreza do discurso, pobreza do conteúdo do discurso, pressão da fala, distraibilidade, tangencialidade, associações frouxas, incoerencia ou salada de palavras, ilogicidade, circunstancialidade, perseveração, ecolalia, bloqueio do pensamento, entre outros. A ideia era primeiro estabelecer um conjunto de definições confiáveis dos sintomas e, em seguida, explorar a frequencia desses sintomas nos pacientes com depressão, mania e esquizofrenia [@Andreasen1979; @Andreasen1982, @Andreasen1985]. O objetivo era avaliar se esses sintomas seriam capazes de discriminar esses diagnósticos e, em última instância, se seriam úteis como critérios diagnósticos. Porém, quando analisados isoladamente, o valor de cada um desses sintomas para o diagnóstico diferencial entre esquizofrenia e transtornos do humor era muito baixo. Mas uma segunda abordagem se mostrou mais efetiva nessa diferenciação: separar os transtornos do pensamento em dois grupos, Positivos e Negativos, aumentava consideravelmente seu valor preditivo na diferenciação de esquizofrenia e transtornos de humor [@Andreasen1979b; @Andreasen1985]. A dimensão negativa dos transtornos do pensamento, caracterizada pela pobreza da fala e pela pobreza do conteúdo da fala, tendia a ocorrer em muitos pacientes com esquizofrenia, particularmente naqueles que sofrem da doença há muitos anos. A dimensão positiva dos transtorno do pensamento, por outro lado, caracterizado pela pressão de fala, tangencialidade, descarrilamento, incoerência e ilogicidade tendia a ocorrer nos caso agudos da esquizofrenia e tinham um prognóstico melhor [@Andreasen1979b; @Andreasen1985].
+
+Devido a sua característica subjetiva e dadas as dificuldades em definir a presença ou ausência desses sintomas, o grupo de pesquisa da Universidade de Iowa, liderado por Nancy Andreasen, desenvolveu a Escala de Avaliação dos Sintomas Negativos (Scale for the Assessment of Negative Symptoms - SANS), seguida posteriormente da criação da Escala de Avaliação dos Sintomas Positivos (Scale for the Assessment of Positive Symptoms - SAPS), consolidando essa terminologia na prática psiquiátrica moderna [@Andreasen1982]. A SANS foi o primeiro instrumento desenvolvido para fornecer uma avaliação abrangente dos sintomas negativos na esquizofrenia. É composta por cinco subescalas que avaliam cinco aspectos diferentes dos sintomas negativos: alogia, embotamento afetivo, apatia-avolição, anedonia-associalidade e comprometimento da atenção [@Andreasen1982, @Andreasen1990].
+
+Assim, no final do século 20, os sintomas descritos por Bleuler como fundamentais ganharam novamente destaque, foram redefinidos e passaram a ser novamente estudados, sob a alcunha moderna de sintomas negativos.
+
+Nos últimos anos, essa dicotomia entre sintomas positivos e negativos passou a se mostrar insufuciente para explicar a complexidade dos sintomas da esquizofrenia e novas dimensões de sintomas começaram a ser propostas.
+
+## Ampliando as Dimensões da Esquizofrenia.
+
+No final da década de 1970 começaram a aparecer sugestões para ampliar as dimensões dos sintomas em mais do que apenas as duas inicialmente sugeridas. Bilder [-@Bilder1985] e Liddle [-@Liddle1987] propuseram classificar os sintomas em `3` dimensões: positiva, negativa e desorganizada, realocando nessa categoria alguns sintomas que antes haviam sido previamente classificados como positivos e negativos. Uma série de outros estudos propuseram `4` , `5` [@Wallwork2012; @Dazzi2016] ou mais categorias, sendo difícil um consenso sobre a melhor forma de se agruparem os sintomas da esquizofrenia.
+
+## O futuro dos subtipos da esquizofrenia
+
+Na última década diversos autores tem buscado diferenciar subtipos da esquizofrenia usando técnicas de inteligência artificial em dados de imagens. Usando técnicas de *machine learning* em imagens de ressonância magnética do encéfalo de pacientes com esquizofrenia Chand e col. [-@Chand2020] encontraram dois distintos padrões neuroanatômicos: O subtipo 1 com redução generalizada da massa cinzenta em relação aos controles saudáveis; e um subtipo 2 com aumento do volume dos gânglios da base e volumes normais de massa cinzenta e branca.
+
+Chen e col. [@Chen2020]
+
+Shi e col. [@Shi2023], analisando também dados de ressonância magnética, encontrou dois diferentes subtipos de paciente com esquizofrenia usando. O subtipo 1, com déficits moderados de alguns núcleos subcorticais e estriado e cerebelo aumentados, e o subtipo 2, com atrofia cerebelar e atrofia mais grave dos núcleos subcorticais, com uma pontuação mais alta na escala de sintomas negativos.
