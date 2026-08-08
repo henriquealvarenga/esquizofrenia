@@ -19,3 +19,5 @@ renv.lock
 
 # macOS
 .DS_Store
+
+/.quarto/
